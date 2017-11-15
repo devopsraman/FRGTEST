@@ -1,6 +1,5 @@
 # terraform-aws-vpc
- T
-This repository  create VPC with Public and private subnets
+ This repository  create VPC with Public and private subnets
 ## Usage
 
 `terraform.tfvars` holds variables which should be overriden with valid ones.
